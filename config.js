@@ -28,16 +28,11 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Dinner for 2 at Sole Restaurant</strong> has been received. We will draw the winner on June 4, 2026 and contact them by email. Good luck!",
-    "socialPromptText": "Watch your inbox on June 4. Follow us on Facebook and Instagram for the winner post."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -54,7 +49,7 @@ const config = {
         "alt": "Cozy dining room setting with warm lighting"
       },
       {
-        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/d2d1d0dsenrmw0cy4tq9wqbc9m.jpg",
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-SoleRestaurantinUptownWaterloo.avif",
         "alt": "Happy pair enjoying a special night out"
       }
     ],
@@ -124,8 +119,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -159,6 +152,8 @@ const config = {
       "Answer the 4 quick questions so we can serve you better",
       "Share this page with a friend who loves great food"
     ],
+    "finePrintText": "Please read the fine print before entering.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We use a random draw. Every valid entry has the same chance. One person. One entry. Fair and square."
@@ -179,7 +174,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1779292179772_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -201,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1779292179773_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -227,7 +222,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1779292179773_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -253,6 +248,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the <strong>Dinner for 2 at Sole Restaurant</strong> has been received. We will draw the winner on June 4, 2026 and contact them by email. Good luck!",
+    "socialPromptText": "Watch your inbox on June 4. Follow us on Facebook and Instagram for the winner post."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/BonnieBenderRealtor/",
