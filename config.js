@@ -1,11 +1,11 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $300 Dinner for 2 at Sole, Father’s Day!",
+    "pageTitle": "Win $300 Dinner for 2 at Solé, Father’s Day!",
     "navBrandLogoText": "Bonnie Bender",
     "privacyPolicyLink": "https://docs.google.com/document/d/e/2PACX-1vTPmwOkzOlioitITUi5XHTU_zFfjMtgVwQxR605YNY5gm0WithUEpdDiGGoholI3KgxjRexf3k2tnj-/pub"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Dinner for 2 at Sole</span> in Uptown Waterloo!",
+    "heroHeadline": "Win <span class='highlight'>Dinner for 2 at Solé</span> in Uptown Waterloo!",
     "heroSubheadline": "Treat Dad to a classy night out. $300 value. Free and fast to enter. Ends June 4.",
     "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/9s2ze1z89xrmy0cy4tnrd9qt84.jpg",
     "promotionDates": "Enter May 14 to June 4, 2026. Winner announced June 4, 2026.",
@@ -14,7 +14,7 @@ const config = {
     "entryFormCtaText": "Enter to Win Dinner!",
     "name": "Dad's Night Giveaway",
     "successModalHeaderText": "You’re in the draw!",
-    "successModalMainMessage": "Your entry for <strong>Dinner for 2 at Sole Restaurant</strong> has been received. We will draw the winner on June 4, 2026 and contact them by email. Good luck!",
+    "successModalMainMessage": "Your entry for <strong>Dinner for 2 at Solé Restaurant</strong> has been received. We will draw the winner on June 4, 2026 and contact them by email. Good luck!",
     "successModalEmailPrompt": "Watch your inbox and spam on June 4, 2026. Reply within 48 hours to claim if you win."
   },
   "settings": {
@@ -56,7 +56,7 @@ const config = {
     "includedItems": [
       {
         "icon": "fas fa-gift",
-        "text": "$300 to spend at Sole Restaurant, Uptown Waterloo"
+        "text": "$300 to spend at Solé Restaurant, Uptown Waterloo"
       },
       {
         "icon": "fas fa-utensils",
@@ -75,9 +75,9 @@ const config = {
         "text": "We can help with your reservation if you like"
       }
     ],
-    "name": "Dad's Night at Sole Restaurant",
+    "name": "Dad's Night at Solé Restaurant",
     "value": "$300 Value",
-    "description": "Picture this: a warm table at Sole. Fresh bread. Great mains. Sweet dessert. Laughter with Dad. No stress. No bill worry up to $300. Take photos. Make a memory he will love. This is your easy, special Father’s Day night in Uptown Waterloo.",
+    "description": "Picture this: a warm table at Solé. Fresh bread. Great mains. Sweet dessert. Laughter with Dad. No stress. No bill worry up to $300. Take photos. Make a memory he will love. This is your easy, special Father’s Day night in Uptown Waterloo.",
     "limitedTimeOfferText": "Father’s Day Giveaway, Ends Soon!",
     "ctaButtonText": "I Want This Night Out!"
   },
@@ -133,12 +133,12 @@ const config = {
         "a": "No. It is free to enter. No purchase needed."
       },
       {
-        "q": "Is this with Sole Restaurant?",
-        "a": "No. This giveaway is hosted by Bonnie Bender. It is not sponsored by Sole Restaurant."
+        "q": "Is this with Solé Restaurant?",
+        "a": "No. This giveaway is hosted by Bonnie Bender. It is not sponsored by Solé Restaurant."
       },
       {
         "q": "What does the $300 cover?",
-        "a": "Use it at Sole for food and drinks up to $300. Taxes, tip, or extra items beyond $300 are up to you."
+        "a": "Use it at Solé for food and drinks up to $300. Taxes, tip, or extra items beyond $300 are up to you."
       },
       {
         "q": "How will I know if I win?",
@@ -168,13 +168,13 @@ const config = {
       "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-101.netlify.app%2Fadmin",
       "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-101.netlify.app%2Fadmin&text=Win%20%24300%20Dinner%20for%202%20at%20Sole%20in%20Uptown%20Waterloo"
     },
-    "subtitle": "Enter your details below for a chance to treat Dad to Sole!",
+    "subtitle": "Enter your details below for a chance to treat Dad to Solé!",
     "entryCountText": "Entries are coming in fast, don’t miss out!",
     "socialSharePrompt": "Share this with friends who love Uptown eats:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1779292196033_0",
+      "id": "q_auto_1779380411669_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1779292196033_1",
+      "id": "q_auto_1779380411669_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -222,7 +222,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1779292196033_2",
+      "id": "q_auto_1779380411669_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -257,7 +257,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Dinner for 2 at Sole Restaurant</strong> has been received. We will draw the winner on June 4, 2026 and contact them by email. Good luck!",
+    "mainMessage": "Your entry for the <strong>Dinner for 2 at Solé Restaurant</strong> has been received. We will draw the winner on June 4, 2026 and contact them by email. Good luck!",
     "socialPromptText": "Watch your inbox on June 4. Follow us on Facebook and Instagram for the winner post."
   },
   "footerContact": {
@@ -271,7 +271,7 @@ const config = {
       "phone": "519-778-0110",
       "email": "kwreferrals@gmail.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Bonnie Bender at Re/Max Solid Gold Realty (II) Ltd and is not affiliated with Sole Restaurant, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-06-04 at 11:59 PM ET. Winner selected at random on 2026-06-04. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "footerDisclaimer": "This giveaway is sponsored by Bonnie Bender at Re/Max Solid Gold Realty (II) Ltd and is not affiliated with Solé Restaurant, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-06-04 at 11:59 PM ET. Winner selected at random on 2026-06-04. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1777911121856-Pride of Home Logo.jpg",
     "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1777911121856-Pride of Home Logo.jpg",
     "secondaryLogoAlt": "The Pride of Home Team",
