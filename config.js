@@ -8,14 +8,14 @@ const config = {
     "heroHeadline": "Win <span class='highlight'>Dinner for 2 at Solé</span> in Uptown Waterloo!",
     "heroSubheadline": "Treat Dad to a classy night out. $300 value. Free and fast to enter. Ends June 4.",
     "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/9s2ze1z89xrmy0cy4tnrd9qt84.jpg",
-    "promotionDates": "Enter May 14 to June 4, 2026. Winner announced June 4, 2026.",
-    "endDate": "2026-06-05T03:59:00.000Z",
+    "promotionDates": "Enter May 29 to June 12, 2026. Winner announced June 13, 2026.",
+    "endDate": "2026-06-12T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter to Win Dinner!",
     "name": "Dad's Night Giveaway",
     "successModalHeaderText": "You’re in the draw!",
     "successModalMainMessage": "Your entry for <strong>Dinner for 2 at Solé Restaurant</strong> has been received. We will draw the winner on June 4, 2026 and contact them by email. Good luck!",
-    "successModalEmailPrompt": "Watch your inbox and spam on June 4, 2026. Reply within 48 hours to claim if you win."
+    "successModalEmailPrompt": "Watch your inbox and spam on June 13, 2026. Reply within 48 hours to claim if you win."
   },
   "settings": {
     "confettiColors": [
@@ -96,7 +96,7 @@ const config = {
       {
         "icon": "fas fa-trophy",
         "title": "You’re Entered!",
-        "description": "We pick a random winner on June 4. Watch your email."
+        "description": "We pick a random winner on June 13. Watch your email."
       }
     ],
     "highlights": [
@@ -126,7 +126,7 @@ const config = {
       },
       {
         "q": "When does it end?",
-        "a": "Entries close June 4, 2026 at 11:59 PM ET. We draw on June 4, 2026."
+        "a": "Entries close June 12, 2026 at 11:59 PM ET. We draw on June 13, 2026."
       },
       {
         "q": "Do I need to buy anything?",
@@ -149,7 +149,7 @@ const config = {
       "Double check your email before you submit",
       "Add kwreferrals@gmail.com to your contacts",
       "Follow us on Facebook and Instagram for updates",
-      "Answer the 4 quick questions so we can serve you better",
+      "Answer the 3 quick questions so we can serve you better",
       "Share this page with a friend who loves great food"
     ],
     "finePrintText": "Please read the fine print before entering.",
@@ -160,7 +160,7 @@ const config = {
     },
     "importantNotice": {
       "title": "Winner Email Notice",
-      "text": "We will email the winner on June 4, 2026. Check your inbox and spam. Reply within 48 hours to claim."
+      "text": "We will email the winner on June 13, 2026. Check your inbox and spam. Reply within 48 hours to claim."
     }
   },
   "entryForm": {
@@ -174,7 +174,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1779380411669_0",
+      "id": "q_auto_1779380516340_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1779380411669_1",
+      "id": "q_auto_1779380516340_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -222,7 +222,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1779380411669_2",
+      "id": "q_auto_1779380516340_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -257,8 +257,8 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Dinner for 2 at Solé Restaurant</strong> has been received. We will draw the winner on June 4, 2026 and contact them by email. Good luck!",
-    "socialPromptText": "Watch your inbox on June 4. Follow us on Facebook and Instagram for the winner post."
+    "mainMessage": "Your entry for the <strong>Dinner for 2 at Solé Restaurant</strong> has been received. We will draw the winner on June 13, 2026 and contact them by email. Good luck!",
+    "socialPromptText": "Watch your inbox on June 13. Follow us on Facebook and Instagram for the winner post."
   },
   "footerContact": {
     "social": {
@@ -271,7 +271,7 @@ const config = {
       "phone": "519-778-0110",
       "email": "kwreferrals@gmail.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Bonnie Bender at Re/Max Solid Gold Realty (II) Ltd and is not affiliated with Solé Restaurant, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-06-04 at 11:59 PM ET. Winner selected at random on 2026-06-04. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "footerDisclaimer": "This giveaway is sponsored by Bonnie Bender at Re/Max Solid Gold Realty (II) Ltd and is not affiliated with Solé Restaurant, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-06-12 at 11:59 PM ET. Winner selected at random on 2026-06-13. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1777911121856-Pride of Home Logo.jpg",
     "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1777911121856-Pride of Home Logo.jpg",
     "secondaryLogoAlt": "The Pride of Home Team",
