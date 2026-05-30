@@ -6,7 +6,7 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>Dinner for 2 at Solé</span> in Uptown Waterloo!",
-    "heroSubheadline": "Treat Dad to a classy night out. $300 value. Free and fast to enter. Ends June 4.",
+    "heroSubheadline": "Treat Dad to a classy night out. $300 value. Free and fast to enter. Ends June 12.",
     "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/9s2ze1z89xrmy0cy4tnrd9qt84.jpg",
     "promotionDates": "Enter May 29 to June 12, 2026. Winner announced June 13, 2026.",
     "endDate": "2026-06-12T03:59:00.000Z",
@@ -14,7 +14,7 @@ const config = {
     "entryFormCtaText": "Enter to Win Dinner!",
     "name": "Dad's Night Giveaway",
     "successModalHeaderText": "You’re in the draw!",
-    "successModalMainMessage": "Your entry for <strong>Dinner for 2 at Solé Restaurant</strong> has been received. We will draw the winner on June 4, 2026 and contact them by email. Good luck!",
+    "successModalMainMessage": "Your entry for <strong>Dinner for 2 at Solé Restaurant</strong> has been received. We will draw the winner on June 13, 2026 and contact them by email. Good luck!",
     "successModalEmailPrompt": "Watch your inbox and spam on June 13, 2026. Reply within 48 hours to claim if you win."
   },
   "settings": {
@@ -174,7 +174,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1780125339490_0",
+      "id": "q_auto_1780125603463_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1780125339490_1",
+      "id": "q_auto_1780125603463_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -222,7 +222,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1780125339490_2",
+      "id": "q_auto_1780125603463_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
