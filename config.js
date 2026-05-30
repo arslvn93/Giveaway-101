@@ -27,11 +27,11 @@ const config = {
     "theme": "dark",
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
-    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
+    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/Mh863MfLphnufpAFcyA3/webhook-trigger/SUHOMJWCSjQ2yFmvUqLY",
     "facebookPixelId": "27134644582856116",
     "turnstileSiteKey": "",
-    "salesGeniusAppApi": "",
-    "followUpBossEmail": "",
+    "salesGeniusAppApi": "api_32f5f96b6bcbbd8248c723c3db55f1e7",
+    "followUpBossEmail": "bonnie.bender@followupboss.me",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
@@ -174,7 +174,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1780125603463_0",
+      "id": "q_auto_1780126004797_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1780125603463_1",
+      "id": "q_auto_1780126004797_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -222,7 +222,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1780125603463_2",
+      "id": "q_auto_1780126004797_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
