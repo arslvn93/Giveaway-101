@@ -174,7 +174,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1780126004797_0",
+      "id": "q_auto_1780126354950_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1780126004797_1",
+      "id": "q_auto_1780126354950_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -222,7 +222,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1780126004797_2",
+      "id": "q_auto_1780126354950_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -287,6 +287,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Giveaway-101",
     "netlifyUrl": "http://Giveaway-101.netlify.app",
     "netlifyId": "1238808117",
-    "tag": "Father’s Day Sole Giveaway"
+    "tag": "Fathers Day Sole Giveaway"
   }
 };
